@@ -1,0 +1,6 @@
+@SistemaMercado_HostAddress = http://localhost:5053
+
+GET {{SistemaMercado_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
